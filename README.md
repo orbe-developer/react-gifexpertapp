@@ -1,3 +1,7 @@
+# GifExpertApp
+
+This is a small app built on React with Hooks to search for and display animated gifs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
